@@ -1,10 +1,20 @@
 # Shellcoder Tools
 # Twitter : @smashedkernel , @blacknbunny
 
+# Shellcoder Tools
+# Twitter : @smashedkernel , @blacknbunny
+
 import os.path,time
 import sys,os
 
-os.system("cls")
+def temizle():
+
+    al = os.system("cls")
+
+    return al
+
+
+temizle()
 konum = os.getcwd()
 tool1 = "tools/shellcode_badchars.py"
 tool2 = "tools/shellcode_crypter.py"
@@ -43,14 +53,14 @@ if os.path.isfile(tool4):
 
         
 time.sleep(1)
-os.system("cls")
+temizle()
         
 print(gui)
 
 secim = input("Tool >> ")
 
 if (secim == "1"):
-      os.system("cls")
+      temizle()
       print(asmhlp)
       retbit = input("Return Bit >> ")
       arch = input("Architecture >> ")
@@ -60,7 +70,7 @@ if (secim == "1"):
       sikkod = wtf.read()
       os.system("python tools/shellcode2asm.py " + retbit + " " + arch + " " + asmflavor + " " + sikkod)
 elif (secim == "2"):
-   os.system("cls")
+   temizle()
    
    option = input("Enter Option (encrypt/decrypt) : ")
    key = input("Enter Secret Key (Default : hexrain) : ")
@@ -69,23 +79,23 @@ elif (secim == "2"):
 
 
 elif (secim == "3"):
-   os.system("cls")
+   temizle()
    selkod = input("Shellcode txt File : ")
    tamami = konum + "\\" + selkod
    os.system("python tools/shellcode_badchars.py " + tamami)
 
 elif (secim == "4"):
-   os.system("cls")
+   temizle()
    skodd = input("Shellcode txt File : ")
    tumu = konum + "\\" + skodd
    os.system("python tools/shellcode_tester.py " + tumu)
 
 elif (secim == "6"):
-   os.system("cls")
+   temizle()
    print(hakkinda)
 
 elif (secim == "5"):
-   os.system("cls")
+   temizle()
    os.system("pip install -r tools/requirements.txt")
    
 else:
