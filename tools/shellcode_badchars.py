@@ -1,8 +1,5 @@
-
-# Badchar Avcisi V 1.0
 # Codded : HexraiN
 # Twitter : @H3xr4iN
-
 
 import sys,os.path,os
 
