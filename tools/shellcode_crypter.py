@@ -1,3 +1,6 @@
+# Twitter : @r0llafag , @0DAYanc
+# Github : @Rollafag , @blacknbunny
+
 import argparse
 from sys import argv, stdout, exit
 
