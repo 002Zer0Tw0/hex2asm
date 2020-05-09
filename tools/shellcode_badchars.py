@@ -1,5 +1,5 @@
-# Codded : HexraiN
-# Twitter : @H3xr4iN
+# Twitter : @r0llafag , @0DAYanc
+# Github : @Rollafag , @blacknbunny
 
 import sys,os.path,os
 
