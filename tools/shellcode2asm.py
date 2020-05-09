@@ -1,5 +1,5 @@
-# Shellcoder Tools
-# Twitter : @smashedkernel , @blacknbunny
+# Twitter : @r0llafag , @0DAYanc
+# Github : @Rollafag , @blacknbunny
 
 from capstone import *
 import time, sys, os
