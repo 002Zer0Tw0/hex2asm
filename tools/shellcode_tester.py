@@ -1,5 +1,6 @@
 # Shellcoder Tools
-# Twitter : @smashedkernel , @blacknbunny
+# Twitter : @r0llafag , @blacknbunny
+
 import urllib2
 import ctypes
 
