@@ -1,5 +1,5 @@
-# Twitter : @r0llafag , @0DAYanc
-# Github : @Rollafag , @blacknbunny
+# Twitter : @0x90_slider, @0DAYanc
+
 
 import argparse
 from sys import argv, stdout, exit
