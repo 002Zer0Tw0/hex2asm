@@ -1,5 +1,4 @@
-# Twitter : @r0llafag , @0DAYanc
-# Github : @Rollafag , @blacknbunny
+
 
 import sys,os.path,os
 
