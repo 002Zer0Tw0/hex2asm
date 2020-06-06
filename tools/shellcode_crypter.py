@@ -1,4 +1,3 @@
-# Twitter : @0x90_slider, @0DAYanc
 
 
 import argparse
