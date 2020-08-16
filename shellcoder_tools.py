@@ -1,5 +1,5 @@
 # Shellcoder Tools
-# Twitter : @n00pslide , @0DAyanc
+# Twitter : 0x00fy
 
 import os.path,time
 import sys,os
