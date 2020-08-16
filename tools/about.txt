@@ -1,7 +1,7 @@
 ********************************************************
 		
 		  SHELLCODER TOOLS v1.0
-	      Author : Netb0x & Blacknbunny
-		@Netb0x ~ @0Dayanc
+	      Author : 0x00fy & Blacknbunny
+		@0x00fy ~ @0Dayanc
 
 ********************************************************
