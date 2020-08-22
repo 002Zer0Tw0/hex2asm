@@ -1,7 +1,7 @@
 from capstone import *
 import time, sys, os
 
-shellcode = sys.argv[4]
+shellcode = "\x90\x90\x90" # Shellcode Here
 
 def loading():
     print ("Loading...")
