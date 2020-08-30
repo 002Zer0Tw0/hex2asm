@@ -41,7 +41,7 @@ def error(error):
 if len(sys.argv) < 3:
     cls()
     print("Author : https://www.github.com/0x00fy")
-    print("Usage:\t./shellcodetoasm.py [returnbit] [architecture] [assembly-flavor]")
+    print("Usage:\t./hextoasm.py [returnbit] [architecture] [assembly-flavor]")
     sys.exit(1)
 else:
     cls()
